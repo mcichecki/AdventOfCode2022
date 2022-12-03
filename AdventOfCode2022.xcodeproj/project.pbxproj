@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD12D8B4293B4558000949C1 /* Day03.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD12D8B3293B4558000949C1 /* Day03.swift */; };
+		CD12D8B9293B4E5E000949C1 /* day03_1.txt in Copy Files */ = {isa = PBXBuildFile; fileRef = CD12D8B8293B4E5A000949C1 /* day03_1.txt */; };
 		CD58A3E7293939EC00A1BF32 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD58A3E6293939EC00A1BF32 /* main.swift */; };
 		CD58A3EF29393A3500A1BF32 /* Day.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD58A3EE29393A3500A1BF32 /* Day.swift */; };
 		CD58A3F129393A4C00A1BF32 /* Benchmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD58A3F029393A4C00A1BF32 /* Benchmark.swift */; };
@@ -26,6 +28,7 @@
 			files = (
 				CD58A3FE29393CBF00A1BF32 /* day01_1.txt in Copy Files */,
 				CD6B2AC5293A8EFD0045ABBF /* day02_1.txt in Copy Files */,
+				CD12D8B9293B4E5E000949C1 /* day03_1.txt in Copy Files */,
 			);
 			name = "Copy Files";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -33,6 +36,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CD12D8B3293B4558000949C1 /* Day03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day03.swift; sourceTree = "<group>"; };
+		CD12D8B8293B4E5A000949C1 /* day03_1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = day03_1.txt; sourceTree = "<group>"; };
 		CD58A3E3293939EC00A1BF32 /* AdventOfCode2022 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AdventOfCode2022; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD58A3E6293939EC00A1BF32 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CD58A3EE29393A3500A1BF32 /* Day.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day.swift; sourceTree = "<group>"; };
@@ -98,6 +103,7 @@
 			children = (
 				CD58A3FB29393CAE00A1BF32 /* day01_1.txt */,
 				CD6B2AC4293A8DC30045ABBF /* day02_1.txt */,
+				CD12D8B8293B4E5A000949C1 /* day03_1.txt */,
 			);
 			path = input;
 			sourceTree = "<group>";
@@ -107,6 +113,7 @@
 			children = (
 				CD58A3F629393A9300A1BF32 /* Day01.swift */,
 				CD6B2AC2293A8D510045ABBF /* Day02.swift */,
+				CD12D8B3293B4558000949C1 /* Day03.swift */,
 			);
 			path = solutions;
 			sourceTree = "<group>";
@@ -182,6 +189,7 @@
 				CD58A3F129393A4C00A1BF32 /* Benchmark.swift in Sources */,
 				CD58A3E7293939EC00A1BF32 /* main.swift in Sources */,
 				CD58A3F329393A5A00A1BF32 /* InputReader.swift in Sources */,
+				CD12D8B4293B4558000949C1 /* Day03.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
