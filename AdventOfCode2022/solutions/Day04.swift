@@ -34,7 +34,7 @@ struct Day04: Day {
 }
 
 extension String {
-    fileprivate func matches(for regex: String) -> [String] {
+    func matches(for regex: String) -> [String] {
         do {
             let regex = try NSRegularExpression(pattern: regex)
             let results = regex.matches(

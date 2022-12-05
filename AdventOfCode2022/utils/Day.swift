@@ -13,9 +13,10 @@ enum Part: Int {
 }
 
 protocol Day {
+    associatedtype ReturnType
     var dayNumber: Int { get }
 
     // TODO: is anwear always Int?
-    func part1() -> Int
-    func part2() -> Int
+    func part1() -> ReturnType
+    func part2() -> ReturnType
 }

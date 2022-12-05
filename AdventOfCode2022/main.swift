@@ -9,11 +9,12 @@ import Foundation
 
 import Foundation
 
-let days: [Day] = [
+let days: [any Day] = [
     Day01(),
     Day02(),
     Day03(),
-    Day04()
+    Day04(),
+    Day05()
 ]
 
 days.forEach { day in
