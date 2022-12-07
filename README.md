@@ -7,3 +7,4 @@
 - [Day 04](https://github.com/mcichecki/AdventOfCode2022/blob/main/AdventOfCode2022/solutions/Day04.swift)
 - [Day 05](https://github.com/mcichecki/AdventOfCode2022/blob/main/AdventOfCode2022/solutions/Day05.swift)
 - [Day 06](https://github.com/mcichecki/AdventOfCode2022/blob/main/AdventOfCode2022/solutions/Day06.swift)
+- [Day 07](https://github.com/mcichecki/AdventOfCode2022/blob/main/AdventOfCode2022/solutions/Day07.swift)
