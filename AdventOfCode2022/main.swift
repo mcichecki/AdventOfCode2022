@@ -17,7 +17,8 @@ let days: [any Day] = [
     Day05(),
     Day06(),
     Day07(),
-    Day08()
+    Day08(),
+    Day10()
 ]
 
 days.forEach { day in
